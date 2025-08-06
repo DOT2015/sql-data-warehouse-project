@@ -58,8 +58,8 @@ Product Performance
 
 Sales Trends
 
-##👋 About Me
-I’m Dr. Adedeji Olugboja, an Assistant Professor of Informatics/Information Systems at York College, CUNY. My work sits at the intersection of AI, machine learning, cybersecurity, and data analytics, with a strong focus on real-world applications in healthcare, business intelligence, and education.
+# About Me
+I’m **Dr. Adedeji Olugboja, an Assistant Professor of Informatics/Information Systems at York College, CUNY**  My work sits at the intersection of AI, machine learning, cybersecurity, and data analytics, with a strong focus on real-world applications in healthcare, business intelligence, and education.
 
 I have over a decade of experience in both academia and industry, having taught and developed courses in AI, data science, databases, project management, and software systems. My current research explores:
 
@@ -73,10 +73,10 @@ Curriculum innovation in AI education
 
 I'm passionate about bridging research, teaching, and community impact—especially through mentoring, public scholarship, and building inclusive tech ecosystems.
 
-🔬 Research Areas: AI in healthcare, ML security, educational technologies, ethical AI
-🧠 Tools: Python, SQL, KNIME, Scikit-learn, TensorFlow, Django, PostgreSQL
-📢 Grants & Publications: NSF, CSTEP, Springer, IEEE, MDPI
-🎓 Teaching: AI, cybersecurity, data analytics, Python programming
+ Research Areas: AI in healthcare, ML security, educational technologies, ethical AI
+ Tools: Python, SQL, KNIME, Scikit-learn, TensorFlow, Django, PostgreSQL
+ Grants & Publications: NSF, CSTEP, Springer, IEEE, MDPI
+ Teaching: AI, cybersecurity, data analytics, Python programming
 
 Let’s build ethical, intelligent systems that matter.
 ---
