@@ -30,6 +30,9 @@ Data Modelers
 
 Aspiring Data Analysts
 
+![Architecture Diagram](Documents/Architecture%20Diagram.drawio.png)
+
+
 # Project Overview: Building a Modern Data Warehouse with SQL Server
 
 🎯 Objective
